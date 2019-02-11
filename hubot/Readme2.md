@@ -1,6 +1,4 @@
-## To start my hubot:
 
-HUBOT_SLACK_TOKEN=xoxb-545040400103-544184113909-kRMU5dtkWqCtOeTDcNce1mv3 bin/hubot  --adapter slack
 
 ## To test My hubot find the following:
 
