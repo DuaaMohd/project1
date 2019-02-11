@@ -1,0 +1,11 @@
+{
+  "name": "hubot",
+  "version": "1.0.0",
+  "private": true,
+  "author": "duaa",
+  "description": "chatting",
+  "dependencies": {},
+  "engines": {
+    "node": "> 4.0.0"
+  }
+}
